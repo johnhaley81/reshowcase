@@ -1,5 +1,5 @@
 {
-  "name": "reshowcase",
+  "name": "@qwick/reshowcase",
   "reason": {
     "react-jsx": 3
   },
@@ -21,6 +21,8 @@
   ],
   "suffix": ".bs.js",
   "namespace": true,
-  "bs-dependencies": ["reason-react"],
+  "bs-dependencies": [
+    "reason-react"
+  ],
   "refmt": 3
 }
